@@ -18,5 +18,6 @@ The fundamentals covered in the lab handouts are:
 
 #### Sample Lab Handout
 
-![Position_Control_of_Quanser_Qube_AdobeExpress](https://user-images.githubusercontent.com/86011214/211932253-5c7fdb80-c38c-4fcf-a7d6-7c37e613e2ce.gif)
+https://user-images.githubusercontent.com/86011214/211932966-a8640fba-1226-4f0b-9459-402ab993dd5c.mp4
+
 
