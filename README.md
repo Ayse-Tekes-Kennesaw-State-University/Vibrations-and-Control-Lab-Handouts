@@ -4,7 +4,7 @@ Although there will be more labs added, I created 10 fundamentaals laboratory ha
 - Please download the [translational and rotational virtual lab](https://www.mathworks.com/matlabcentral/fileexchange/111285-translational-and-rotational-vibrations-virtual-lab) since there are some activities designed using the virtual lab.
 
 #### Lab Handouts
-The fundamentals covered in the laab handouts are:
+The fundamentals covered in the lab handouts are:
 - Lab 1: Introduction to MATLAB
 - Lab 2: SDOF Translational Free Vibrations and System Identification
 - Lab 3: SDOF Rotational Free Vibrations and System Identification
@@ -15,3 +15,4 @@ The fundamentals covered in the laab handouts are:
 - Lab 8: Quanser Qube Block Diagram Modeling
 - Lab 9: Modeling of a First Order System using Quanser Qube
 - Lab 10: PD control design 
+
