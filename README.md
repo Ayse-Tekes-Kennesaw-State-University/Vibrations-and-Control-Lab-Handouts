@@ -16,3 +16,9 @@ The fundamentals covered in the lab handouts are:
 - Lab 9: Modeling of a First Order System using Quanser Qube
 - Lab 10: PD control design 
 
+#### Sample Lab Handout
+
+
+
+https://user-images.githubusercontent.com/86011214/211931836-3453e729-b728-4753-9e93-e24aa1f52437.mov
+
